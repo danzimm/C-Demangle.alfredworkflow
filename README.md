@@ -7,3 +7,8 @@ Install
 ---
 
 Double click the workflow.
+
+Example:
+---
+![Example](screenshot.png)
+
